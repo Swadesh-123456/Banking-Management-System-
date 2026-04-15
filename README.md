@@ -28,7 +28,7 @@ It allows users to manage bank accounts and perform transactions easily.
 - requirements.txt → dependencies
 
 ## 🌐 Live Demo
-(Add your Streamlit link here)
+(https://github.com/Swadesh-123456/Banking-Management-System-)
 
 ## 👨‍💻 Author
 Swadesh Vishwakarma
